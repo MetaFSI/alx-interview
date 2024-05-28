@@ -2,7 +2,7 @@
 """
 N Queens Problem Solver
 
-This script solves the N Queens problem, which is the challenge of placing N
+This script solve the N Queens problem, which is the challenge of placing N
 non-attacking queens on an N×N chessboard.
 
 Usage:
