@@ -1,10 +1,6 @@
 # 0x05. N Queens
 
-## Algorithm
 
-This repository contains a Python implementation of the N Queens puzzle-solving algorithm. The challenge is to place N non-attacking queens on an N×N chessboard. The solution is provided in the file `0-nqueens.py`.
-
-### Author
 - Alexa Orrico, Software Engineer at Holberton School
 
 ### Project Information
